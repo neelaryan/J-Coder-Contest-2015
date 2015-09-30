@@ -13,7 +13,7 @@ int main() {
 		printf("Enter values of x : ");
 		if (fgets(buffer, sizeof(buffer), stdin) != NULL) {
 	    	
-			if (sscanf(buffer, "%f", &hypotenuse) == 1) {
+			if (sscanf(buffer, "%f", &hypotenuse) == 1 && (hypotenuse <= 100 && hypotenuse >= 1)) {
 	    		
 				printf("Enter values of theta angle : ");
 	    		
