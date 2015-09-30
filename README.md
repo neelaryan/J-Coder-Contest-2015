@@ -9,7 +9,9 @@ Analyze the figure and find the area of the shaded region
 ![http://s8.postimg.org/szj88i5qd/Question1.jpg](http://s8.postimg.org/szj88i5qd/Question1.jpg)
 
 **Input:** Take X (in c.m) and Theta angle as the input to your program
+
 **Constraints:** 1<=X<=100 and Theta angle can be 30, 45 or 60 only
+
 **Output:** Area of the shaded region in centimeter square. Correct to 4 decimal places.
 
 Sample Input:
