@@ -30,10 +30,10 @@ In IIITMK there are faculties and research scholars.
 
 List A contains names of the Researchers and list B contains names of the Faculties.
 
-Your job is to find out 
-People who are doing research or they are faculties.
-People who are doing research and they are faculties.
-People who are doing research but they are not faculties.
+Your job is to find out
+- People who are doing research or they are faculties.
+- People who are doing research and they are faculties.
+- People who are doing research but they are not faculties.
 
 A Name should be listed in individual lists exactly once. Since it is easy to maintain sorted lists, also sort all lists.
 
