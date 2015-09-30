@@ -26,7 +26,11 @@ Area of the shaded region is: 8.9326 cm square.
 
 
 # 2.
-In IIITMK there are faculties and research scholars. List A contains names of the Researchers and list B contains names of the Faculties. Your job is to find out 
+In IIITMK there are faculties and research scholars.
+
+List A contains names of the Researchers and list B contains names of the Faculties.
+
+Your job is to find out 
 People who are doing research or they are faculties.
 People who are doing research and they are faculties.
 People who are doing research but they are not faculties.
